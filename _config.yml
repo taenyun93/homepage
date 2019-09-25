@@ -20,7 +20,7 @@ title                    : "Taenyun's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Taenyun Kim"
-description              : "An amazing website."
+description              : "This is Taenyun's Homepage. Feel free to explore."
 url                      : "https://taenyun93.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
 repository               : "taenyun93/homepage" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
