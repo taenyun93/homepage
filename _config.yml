@@ -111,7 +111,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am enthusiastic graduate student in Interaction Science who are interested in Human-Computer Interaction, Psychology of Decision Making, and Behavior Change."
   location         : "SKKU, Seoul, Korea"
-  link:
+  links:
+    - label: "SKKU, Seoul, Korea"
+      icon: "fas fa-map-marker-alt"
+      url: mailto:taenyun1@gmail.com
+      
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:taenyun1@gmail.com
