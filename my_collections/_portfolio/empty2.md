@@ -1,5 +1,5 @@
 ---
-title: "Empty portfolio"
+title: "Empty portfolio2"
 excerpt: "This portfolio is empty"
 header:
   image: /assets/images/portfolio/empty.jpg
