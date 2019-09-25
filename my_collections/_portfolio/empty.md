@@ -2,18 +2,11 @@
 title: "Empty portfolio"
 excerpt: "This portfolio is empty"
 header:
-  image: /assets/images/portfolio/empty/empty.jpg
   teaser: /assets/images/portfolio/empty/empty.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+
 gallery:
-  - url: http://placehold.it/350x250
-    image_path: http://placehold.it/350x250
+  - url: /assets/images/portfolio/empty/empty.jpg
+    image_path: /assets/images/portfolio/empty/empty.jpg
     alt: "placeholder image 1"
   - url: http://placehold.it/350x250
     image_path: http://placehold.it/350x250
