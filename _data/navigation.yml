@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://taenyun93.github.io/homepage/about/
-    - title: "Projects"
+  - title: "Projects"
     url: https://taenyun93.github.io/homepage/projects/
   - title: "Publications"
     url: https://taenyun93.github.io/homepage/publications/
