@@ -7,6 +7,6 @@ main:
   - title: "Publications"
     url: https://taenyun93.github.io/homepage/publications/
   - title: "Portfolio"
-    url: https://taenyun93.github.io/homepage/portfolio/
+    # url: https://taenyun93.github.io/homepage/portfolio/
   - title: "Honors"
     url: https://taenyun93.github.io/homepage/honors/
