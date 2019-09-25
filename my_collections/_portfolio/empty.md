@@ -2,8 +2,8 @@
 title: "Empty portfolio"
 excerpt: "This portfolio is empty"
 header:
-  image: /assets/images/portfolio/empty.jpg
-  teaser: /assets/images/portfolio/empty.jpg
+  image: /assets/images/portfolio/empty/empty.jpg
+  teaser: /assets/images/portfolio/empty/empty.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
