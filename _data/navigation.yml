@@ -2,17 +2,9 @@
 main:
   - title: "About"
     url: https://taenyun93.github.io/homepage/about/
+    - title: "Projects"
+    url: https://taenyun93.github.io/homepage/projects/
   - title: "Publications"
     url: https://taenyun93.github.io/homepage/publications/
-  - title: "Projects"
-    url: https://taenyun93.github.io/homepage/projects/
-  - title: "honors"
+  - title: "Honors"
     url: https://taenyun93.github.io/homepage/honors/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
