@@ -161,8 +161,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - docs
-  - "docs/_pages"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -299,8 +297,7 @@ defaults:
       comments: # true
       share: true
       related: true
-
-defaults:
+      
   # _pages
   - scope:
       path: ""
@@ -309,7 +306,6 @@ defaults:
       layout: single
       author_profile: true
       
-defaults:
   # _portfolio
   - scope:
       path: ""
