@@ -110,12 +110,11 @@ author:
   name             : "Taenyun Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am enthusiastic graduate student in Interaction Science who are interested in Human-Computer Interaction, Psychology of Decision Making, and Behavior Change."
-  location         : "SKKU, Seoul, Korea"
+  #location         : "SKKU, Seoul, Korea"
   links:
     - label: "SKKU, Seoul, Korea"
-      icon: "fas fa-map-marker-alt"
-      url: mailto:taenyun1@gmail.com
-      
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: https://goo.gl/maps/w364Rs5MbD4ynZTQ8  
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:taenyun1@gmail.com
