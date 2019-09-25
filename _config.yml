@@ -281,7 +281,7 @@ compress_html:
 
 # collections
 collections:
-  portfolio:
+  _portfolio:
     output: true
     permalink: /:collection/:path/
     
