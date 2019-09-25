@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taenyun Kim"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am enthusiastic graduate student in Interaction Science who are interested in Human-Computer Interaction, Psychology of Decision Making, and Behavior Change."
+  name             : #"Taenyun Kim"
+  avatar           : #"/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : #"I am enthusiastic graduate student in Interaction Science who are interested in Human-Computer Interaction, Psychology of Decision Making, and Behavior Change."
   location         : "SKKU, Seoul, Korea"
   email            : "taenyun1@gmail.com
   links:
