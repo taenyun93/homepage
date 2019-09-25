@@ -280,7 +280,6 @@ compress_html:
     envs: development
 
 # collections
-
 collections:
   portfolio:
     output: true
