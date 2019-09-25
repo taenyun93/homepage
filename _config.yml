@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -109,10 +109,12 @@ analytics:
 author:
   name             : "Taenyun Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am enthusiastic graduate student in Interaction Science who are interested in Human-Computer Interaction, Psychology of Decision Making, and Behavior Change."
-  location         : "SKKU, Seoul, Korea"
-  email            : "taenyun1@gmail.com
+  bio              : "I am enthusiastic graduate student in Interaction Science who studies Human-Computer Interaction, Psychology and Big Data"
+  #location         : "SKKU, Seoul, Korea"
   links:
+    - label: "SKKU, Seoul, Korea"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: https://goo.gl/maps/w364Rs5MbD4ynZTQ8  
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:taenyun1@gmail.com
@@ -159,6 +161,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - docs
+  - "docs/_pages"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -183,8 +187,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -278,7 +280,12 @@ compress_html:
   ignore:
     envs: development
 
+# portfolio collection
 
+collections:
+  portfolio:
+    output: true
+    permalink: /collection/:path
 # Defaults
 defaults:
   # _posts
@@ -292,3 +299,25 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+    
