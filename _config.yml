@@ -110,7 +110,7 @@ author:
   name             : "Taenyun Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a graduate student in Interaction Science, SKKU, Seoul. I am interested in Human-Computer Interaction, "
-  location         : "Somewhere"
+  location         : "SKKU, Seoul"
   email            :
   links:
     - label: "Email"
