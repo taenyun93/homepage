@@ -282,7 +282,7 @@ compress_html:
 collections_dir: my_collections
 collections:
   portfolio:
-    output: true
+    #output: true
     permalink: /:collection/:path
     
 # Defaults
