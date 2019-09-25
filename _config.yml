@@ -159,6 +159,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - docs
   - "docs/_pages"
 exclude:
   - "*.sublime-project"
