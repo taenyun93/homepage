@@ -280,9 +280,10 @@ compress_html:
 
 # collections
 collections:
+  collections_dir: my_collections
   portfolio:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
     
 # Defaults
 defaults:
