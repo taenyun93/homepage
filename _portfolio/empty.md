@@ -12,13 +12,13 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: http://placehold.it/350x250
     image_path: http://placehold.it/350x250
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
+  - url: http://placehold.it/350x250
     image_path: http://placehold.it/350x250
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+  - url: http://placehold.it/350x250
     image_path: http://placehold.it/350x250
     alt: "placeholder image 3"
 ---
