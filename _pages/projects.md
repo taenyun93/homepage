@@ -6,7 +6,7 @@ title: "Projects"
 **[2019]* 
 
 
-<img src="/assets/images/skcc_poster.png" width="70%" height="70%" title="skcc_poster" alt="SKCC"></img>
+<img src="/assets/images/skcc_poster.png" width="30%" height="30%" title="skcc_poster" alt="SKCC"></img>
 
 
 **SK Creatative Challenge** 
